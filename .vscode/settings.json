@@ -1,3 +1,5 @@
 {
-    "livePreview.portNumber": 8080
+    "livePreview.portNumber": 8080,
+    "editor.detectIndentation": false,
+    "editor.tabSize": 2,
 }
